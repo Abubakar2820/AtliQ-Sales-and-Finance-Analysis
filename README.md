@@ -26,5 +26,5 @@ The final comprehensive Reports can be found here:
 - [Profit & Loss (P&L) Reports by Fiscal Year](link) & [Months](link)
 - [Profit & Loss (P&L) Reports by Markets](link)  
 
-## Data Structure & Initial Checks
+## Data Structure
 AtliQ’s data structure as seen below consists of five tables: products, customers, markets, sales, and net sales targets having more than a million records in total.
