@@ -15,3 +15,16 @@ Insights and recommendations are provided on the following key areas:
 * Customer Performance: Identification of top-performing customers to prioritize and low-performing ones to re-engage or optimize strategies for improved contribution.
 
 * Product Performance: Assessment of product categories to understand their impact on overall sales and profitability, focusing on high-demand products to optimize the product mix.
+
+The final comprehensive Reports can be found here:
+
+1. Sales Report
+- [Customer Performance Report](link)
+- [Market Performance and Sales Target](link)
+
+2. Finance Report
+- [Profit & Loss (P&L) Reports by Fiscal Year](link) & [Months](link)
+- [Profit & Loss (P&L) Reports by Markets](link)  
+
+## Data Structure & Initial Checks
+AtliQ’s data structure as seen below consists of five tables: products, customers, markets, sales, and net sales targets having more than a million records in total.
