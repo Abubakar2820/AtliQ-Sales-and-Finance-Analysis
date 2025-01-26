@@ -28,3 +28,5 @@ The final comprehensive Reports can be found here:
 
 ## Data Structure
 AtliQ’s data structure as seen below consists of five tables: products, customers, markets, sales, and net sales targets having more than a million records in total.
+
+![ERD](https://github.com/Abubakar2820/AtliQ-Sales-and-Finance-Analysis/blob/main/ERD.png)
