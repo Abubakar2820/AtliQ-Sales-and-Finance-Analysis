@@ -6,27 +6,33 @@
 
 Insights and recommendations are provided on the following key areas:
 
-* Sales Trends Analysis: Examination of historical sales patterns to identify year-over-year trends in net sales, uncovering areas of growth and decline.
+* **Sales Trends Analysis**: Examination of historical sales patterns to identify year-over-year trends in net sales, uncovering areas of growth and decline.
 
-* Financial Performance: Analysis of key financial metrics, including Net Sales, COGS, and  Gross Margin, to assess overall profitability and cost efficiency.
+* **Financial Performance**: Analysis of key financial metrics, including Net Sales, COGS, and  Gross Margin, to assess overall profitability and cost efficiency.
 
-* Market Performance vs. Target: Evaluation of how various markets performed against 2021 sales targets, highlighting high-growth opportunities and underperforming regions requiring strategic interventions.
+* **Market Performance vs. Target**: Evaluation of how various markets performed against 2021 sales targets, highlighting high-growth opportunities and underperforming regions requiring strategic interventions.
 
-* Customer Performance: Identification of top-performing customers to prioritize and low-performing ones to re-engage or optimize strategies for improved contribution.
+* **Customer Performance**: Identification of top-performing customers to prioritize and low-performing ones to re-engage or optimize strategies for improved contribution.
 
-* Product Performance: Assessment of product categories to understand their impact on overall sales and profitability, focusing on high-demand products to optimize the product mix.
+* **Product Performance**: Assessment of product categories to understand their impact on overall sales and profitability, focusing on high-demand products to optimize the product mix.
 
 The final comprehensive Reports can be found here:
 
-1. Sales Report
+**1. Sales Report**
 - [Customer Performance Report](link)
 - [Market Performance and Sales Target](link)
 
-2. Finance Report
+**2. Finance Report**
 - [Profit & Loss (P&L) Reports by Fiscal Year](link) & [Months](link)
 - [Profit & Loss (P&L) Reports by Markets](link)  
 
 ## Data Structure
-AtliQ’s data structure as seen below consists of five tables: products, customers, markets, sales, and net sales targets having more than a million records in total.
+The dataset consisted of five tables, including information about customers, products, sales, market and net sales targets, as well as additional date table I created for my analysis. 
 
 ![ERD](https://github.com/Abubakar2820/AtliQ-Sales-and-Finance-Analysis/blob/main/ERD.png)
+
+## Executive Summary
+#### Overview Of Findings
+Between 2019 and 2021, the company experienced significant growth, with net sales skyrocketing by 204% YoY in 2021, reaching $599M. However, key profitability indicators have shown declining trends. The gross margin percentage dropped from 41% in 2019 to 36% in 2021, driven by a sharp increase in total costs of goods sold (COGS), which grew by 209% YoY in 2021. While the growth in sales signals strong market demand, the decline in gross margin percentage highlights rising cost pressures and reduced profitability.
+
+The following sections will explore the underlying factors driving these trends and identify actionable opportunities to sustain growth while improving efficiency and margins.
