@@ -27,3 +27,5 @@ Between 2019 and 2021, the company experienced significant growth, with net sale
 The following sections will explore the underlying factors driving these trends and identify actionable opportunities to sustain growth while improving efficiency and margins.
 
 ![kpi card](https://github.com/Abubakar2820/AtliQ-Sales-and-Finance-Analysis/blob/main/kpi.png)
+
+## Insights Deep-Dive
