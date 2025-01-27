@@ -25,3 +25,5 @@ The dataset provided consisted of five tables: sales, products, customers, marke
 Between 2019 and 2021, the company experienced significant growth, with net sales skyrocketing by 204% YoY in 2021, reaching $599M. However, key profitability indicators have shown declining trends. The gross margin percentage dropped from 41% in 2019 to 36% in 2021, driven by a sharp increase in total costs of goods sold (COGS), which grew by 209% YoY in 2021. While the growth in sales signals strong market demand, the decline in gross margin percentage highlights rising cost pressures and reduced profitability.
 
 The following sections will explore the underlying factors driving these trends and identify actionable opportunities to sustain growth while improving efficiency and margins.
+
+![kpi card](https://github.com/Abubakar2820/AtliQ-Sales-and-Finance-Analysis/blob/main/kpi.png)
