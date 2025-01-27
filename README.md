@@ -16,3 +16,6 @@ The final reports delivered to the Head of Operations are as follows.
 **2. Finance Report**
 - [Profit & Loss (P&L) Reports by Fiscal Year](link) & [Months](link)
 - [Profit & Loss (P&L) Reports by Markets](link)
+
+## Data Structure 
+The dataset provided consisted of five tables: sales, products, customers, markets, and sales targets, as shown in the ERD below.
